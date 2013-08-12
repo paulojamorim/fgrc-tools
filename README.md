@@ -15,5 +15,5 @@ Convert abs file to ply file with textures (from ppm files).
 * python abs_to_ply.py *001.abs* *002.ppm* *output.ply*
 
 **To visualize faces**
-* python show_ply.py my_face.ply
+* python show_ply.py *my_face.ply*
 * [Meshlab Software](http://meshlab.sourceforge.net/ "meshlab").
